@@ -7,22 +7,37 @@ Welcome to the Technohacks Edutech Data Analytics Internship repository! In this
 For the tasks in this internship, we primarily use **Python**, a versatile programming language known for its data analysis capabilities. Here's how Python is used in this internship:
 
 - **Data Cleaning**: Python is used to clean and preprocess the data, which includes handling null values and outliers.
-- **Summary Statistics**: Python is also utilized to calculate summary statistics such as mean, median, and standard deviation.
+- **Summary Statistics**: Python is utilized to calculate summary statistics such as mean, median, and standard deviation.
+- **Data Distribution**: Python is use to see the data distribution of dataset by usging hostogram/bar charts.
+- **Duplicate Values**: Python is also use to deal with duplicates values in dataset.
 
 ## Tasks
 
 ### Task 1: Data Cleaning
-In this task, you will perform data cleaning, focusing on removing null values and outliers. The key libraries used for this task are:
+In this task,we perform data cleaning, focusing on removing null values and outliers. The key libraries used for this task are:
 - **Pandas**: Used for data manipulation and analysis.
 - **NumPy**: Essential for numerical operations.
 - **IO**: For handling input and output.
 - **Matplotlib**: Utilized for data visualization.
 
 ### Task 2: Summary Statistics
-For this task, your goal is to calculate essential summary statistics, including mean, median, and standard deviation. The primary libraries used in this task are:
+For this task, our goal is to calculate essential summary statistics, including mean, median, and standard deviation. The primary libraries used in this task are:
 - **Pandas**: Again, we rely on Pandas for data manipulation.
 - **NumPy**: For mathematical operations.
 
+### Task 3: Visualization using Histogram
+For this task, we see data distribution using histogram/bar charts in datset. The key libraries used for this task are:
+- **Pandas**: Used for data manipulation and analysis.
+- **IO**: For handling input and output.
+- **Matplotlib**: Utilized for data visualization.
+
+
+### Task 5: Remove Duplicates
+For this task, our goal is to identify and remove duplicate values in datset. The key libraries used for this task are:
+- **Pandas**: Used for data manipulation and analysis.
+- **IO**: For handling input and output.
+
+  
 ## Key Insights
 
 Throughout the internship, you'll encounter some key insights, including:
